@@ -182,3 +182,7 @@ ItemTouchHelper.Callback callback =
 ItemTouchHelper touchHelper = new ItemTouchHelper(callback);
 touchHelper.attachToRecyclerView(recyclerView);
 ```
+
+## 参考
+- [拖拽RecyclerView](http://www.devtf.cn/?p=795)
+- [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
